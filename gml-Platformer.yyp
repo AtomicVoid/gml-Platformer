@@ -3,11 +3,15 @@
   "resourceVersion": "1.6",
   "name": "gml-Platformer",
   "resources": [
+    {"id":{"name":"Spr_guide","path":"sprites/Spr_guide/Spr_guide.yy",},"order":4,},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":2,},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},
     {"id":{"name":"spr_placeholder","path":"sprites/spr_placeholder/spr_placeholder.yy",},"order":0,},
+    {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},"order":3,},
+    {"id":{"name":"Spr_Place_Holder","path":"sprites/Spr_Place_Holder/Spr_Place_Holder.yy",},"order":3,},
+    {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},"order":4,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":0,},
-    {"id":{"name":"Obj_placeholder_movement","path":"objects/Obj_placeholder_movement/Obj_placeholder_movement.yy",},"order":2,},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -18,7 +22,7 @@
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
-  "defaultScriptType": 2,
+  "defaultScriptType": 1,
   "isEcma": false,
   "configs": {
     "name": "Default",
